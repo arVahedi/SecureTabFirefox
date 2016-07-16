@@ -1,7 +1,7 @@
 # SecureTabFirefox
 (Secure Tab extension for Firefox browser)
 
-### **If you are a Chrome user see [SecureTabChrome](https://github.com/arVahedi/SecureTabChrome)**
+### If you are a **Chrome** user see [SecureTabChrome](https://github.com/arVahedi/SecureTabChrome)
 
 ## What is this?
 
@@ -9,7 +9,17 @@ This is a simple extension for Firefox browser, that it can hide your favicon an
 
 ## Installation
 
+#### Make and install from source code (recommended for developers)
 
+1. First cloning or download this repository on your computer.(If it is ZIP’d, extract the contents somewhere)
+2. In Firefox, type **_about:config_** in the address bar and press Enter/Return. Click the button promising to be careful.
+3. In the search box above the list, type or paste **_xpinstall.signatures.required_** and pause while the list is filtered.
+4. If the xpinstall.signatures.required preference is bolded and user set to true, double-click it to switch it to false.
+    (If the preference indicates it is locked, we need to investigate an autoconfig file. If it changes back to true at the next startup, we need to investigate a possible user.js file)
+5. In Firefox, open **_about:addons_**
+6. click on the gear icon (Tools for all add-ons) > Install Add-on From File... > browse to the add-on (xpi file in output       directory) > double click the add-on (or select Open) > Install Now
+
+#### Install from firefox add-ons repository (recommended for end-users)
 
 ## How to use?
 
