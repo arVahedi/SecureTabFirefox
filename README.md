@@ -19,7 +19,7 @@ This is a simple extension for Firefox browser, that it can hide your favicon an
 5. In Firefox, open **_`about:addons`_**
 6. click on the gear icon (Tools for all add-ons) > Install Add-on From File... > browse to the add-on (xpi file in output       directory) > double click the add-on (or select Open) > Install Now.
 
-_For more information see [support.mozilla.org](https://support.mozilla.org/en-US/questions/785686)_
+ _For more information see [support.mozilla.org](https://support.mozilla.org/en-US/questions/785686)_
 
 - #### Install from firefox add-ons repository (recommended for end-users)
 
@@ -31,6 +31,16 @@ _For more information see [support.mozilla.org](https://support.mozilla.org/en-U
 ## How to use?
 
 After install extension on your browser, one button add to top right side of your browser. when you click on it button, your **active tab** will affected.
+
+## Develope Environment
+
+1. First cloning or download this repository on your computer.(If it is ZIP’d, extract the contents somewhere)
+2. Install [Add-on SDK (jpm)](https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/jpm#Installation)
+3. Develop source code
+4. For run add-on and test it, use `jpm run` command. (see [documente](https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/jpm#jpm_run))
+5. At the end, for make output file from source code, use `jpm xpi` command. (see [document](https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/jpm#jpm_xpi))
+
+_For more information see [jpm command reference](https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/jpm#Command_reference)_ and [Getting Started jpm](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Getting_Started_(jpm)).
 
 ## License
 
