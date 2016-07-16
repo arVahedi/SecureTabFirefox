@@ -12,12 +12,12 @@ This is a simple extension for Firefox browser, that it can hide your favicon an
 #### Make and install from source code (recommended for developers)
 
 1. First cloning or download this repository on your computer.(If it is ZIP’d, extract the contents somewhere)
-2. In Firefox, type **_about:config_** in the address bar and press Enter/Return. Click the button promising to be careful.
-3. In the search box above the list, type or paste **_xpinstall.signatures.required_** and pause while the list is filtered.
+2. In Firefox, type **_`about:config`_** in the address bar and press Enter/Return. Click the button promising to be careful.
+3. In the search box above the list,type or paste **_`xpinstall.signatures.required`_** and pause while the list is filtered.
 4. If the xpinstall.signatures.required preference is bolded and user set to true, double-click it to switch it to false.
     (If the preference indicates it is locked, we need to investigate an autoconfig file. If it changes back to true at the next startup, we need to investigate a possible user.js file)
-5. In Firefox, open **_about:addons_**
-6. click on the gear icon (Tools for all add-ons) > Install Add-on From File... > browse to the add-on (xpi file in output       directory) > double click the add-on (or select Open) > Install Now
+5. In Firefox, open **_`about:addons`_**
+6. click on the gear icon (Tools for all add-ons) > Install Add-on From File... > browse to the add-on (xpi file in output       directory) > double click the add-on (or select Open) > Install Now.
 
 _For more information see [support.mozilla.org](https://support.mozilla.org/en-US/questions/785686)_
 
@@ -26,7 +26,7 @@ _For more information see [support.mozilla.org](https://support.mozilla.org/en-U
 1. **In Firefox browser** see [addons.mozilla](https://addons.mozilla.org/en-US/firefox/addon/secure-tab-firefox/) Or open this link : https://addons.mozilla.org/en-US/firefox/addon/secure-tab-firefox/
 2. Click to **_Add to Firefox_** button, and choose install.
 
-**Note :** If Mozilla has not been reviewed this add-on, you should do steps 1 to 4 from developer installation or see [this](https://support.mozilla.org/en-US/questions/1078339).
+**Note :** If Mozilla has not been reviewed this add-on, you should do steps 1 to 4 from developer installation or see [this link.](https://support.mozilla.org/en-US/questions/1078339).
 
 ## How to use?
 
