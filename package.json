@@ -1,0 +1,16 @@
+{
+  "title": "Secure Tab Firefox",
+  "name": "secure_tab_firefox",
+  "version": "1.0.0",
+  "description": "Secure tab extension for firefox browser",
+  "main": "index.js",
+  "author": "Gl4di4tor",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GNU ver3.0",
+  "keywords": [
+    "jetpack"
+  ]
+}
