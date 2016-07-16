@@ -9,7 +9,7 @@ This is a simple extension for Firefox browser, that it can hide your favicon an
 
 ## Installation
 
-#### Make and install from source code (recommended for developers)
+- #### Make and install from source code (recommended for developers)
 
 1. First cloning or download this repository on your computer.(If it is ZIP’d, extract the contents somewhere)
 2. In Firefox, type **_`about:config`_** in the address bar and press Enter/Return. Click the button promising to be careful.
@@ -21,9 +21,9 @@ This is a simple extension for Firefox browser, that it can hide your favicon an
 
 _For more information see [support.mozilla.org](https://support.mozilla.org/en-US/questions/785686)_
 
-#### Install from firefox add-ons repository (recommended for end-users)
+- #### Install from firefox add-ons repository (recommended for end-users)
 
-1. **In Firefox browser** see [addons.mozilla](https://addons.mozilla.org/en-US/firefox/addon/secure-tab-firefox/) Or open this link : https://addons.mozilla.org/en-US/firefox/addon/secure-tab-firefox/
+1. In Firefox browser see [addons.mozilla](https://addons.mozilla.org/en-US/firefox/addon/secure-tab-firefox/) Or open this link : https://addons.mozilla.org/en-US/firefox/addon/secure-tab-firefox/
 2. Click to **_Add to Firefox_** button, and choose install.
 
 **Note :** If Mozilla has not been reviewed this add-on, you should do steps 1 to 4 from [developer installation](https://github.com/arVahedi/SecureTabFirefox/blob/master/README.md#make-and-install-from-source-code-recommended-for-developers) or see [this link.](https://support.mozilla.org/en-US/questions/1078339).
