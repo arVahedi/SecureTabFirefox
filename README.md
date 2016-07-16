@@ -1,7 +1,7 @@
 # SecureTabFirefox
 (Secure Tab extension for Firefox browser)
 
-** If you are a Chrome user see [SecureTabChrome](https://github.com/arVahedi/SecureTabChrome) **
+### **If you are a Chrome user see [SecureTabChrome](https://github.com/arVahedi/SecureTabChrome)**
 
 ## What is this?
 
