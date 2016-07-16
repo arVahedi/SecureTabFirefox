@@ -26,7 +26,7 @@ _For more information see [support.mozilla.org](https://support.mozilla.org/en-U
 1. **In Firefox browser** see [addons.mozilla](https://addons.mozilla.org/en-US/firefox/addon/secure-tab-firefox/) Or open this link : https://addons.mozilla.org/en-US/firefox/addon/secure-tab-firefox/
 2. Click to **_Add to Firefox_** button, and choose install.
 
-**Note :** If Mozilla has not been reviewed this add-on, you should do steps 1 to 4 from developer installation or see [this link.](https://support.mozilla.org/en-US/questions/1078339).
+**Note :** If Mozilla has not been reviewed this add-on, you should do steps 1 to 4 from [developer installation](https://github.com/arVahedi/SecureTabFirefox/blob/master/README.md#make-and-install-from-source-code-recommended-for-developers) or see [this link.](https://support.mozilla.org/en-US/questions/1078339).
 
 ## How to use?
 
